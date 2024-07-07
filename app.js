@@ -1,5 +1,4 @@
-const clientId = '649514248a3c4b928d6d6e880206e1db';
-const clientSecret = '8b861e27912343a892db9f9aa55c8a76'; 
+
 const redirectUri = 'http://127.0.0.1:5500/index.html';
 const scopes = 'playlist-read-private playlist-modify-public user-library-read';
 
